@@ -4,7 +4,7 @@ import { Link } from 'expo-router';
 export default function Index() {
   return (
     <View style={styles.container}>
-      <Text>wot stats app (dit is index.tsx)</Text>
+      <Text>wot stats app (dit is index.tsx)!!!</Text>
 	  <Link href="/settings" style={styles.button}> Settings screen </Link>
     </View>
   );
